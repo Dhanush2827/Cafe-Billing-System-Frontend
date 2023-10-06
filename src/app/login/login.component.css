@@ -1,0 +1,18 @@
+.toolbar-container {
+    background-image: url('../../assets/img/food1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+
+
+.mat-toolbar{
+    margin: auto;
+    width: auto;
+    margin-bottom: auto;
+}
+
+mat-form-fiels{
+    padding: auto;
+}
